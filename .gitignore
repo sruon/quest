@@ -1,0 +1,4 @@
+**/.terraform/*
+**.lock.hcl**
+node_modules/
+.idea/
